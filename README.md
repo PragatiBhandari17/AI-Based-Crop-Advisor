@@ -53,7 +53,7 @@ project-folder/
 └── README.md
 
 
-# 📌 6. How to Run the Android App
+# 📌 5. How to Run the Android App
 ### 1. Open the project in Android Studio
 * File → **Open** → Select the project folder
 * Wait for **Gradle sync** to complete
@@ -64,7 +64,7 @@ project-folder/
 * Enter N, P, K, Temp, Humidity, pH, Rainfall
 * Get crop prediction instantly
 
-# 📌 7. Technologies Used
+# 📌 6. Technologies Used
 ### Android
 * Kotlin
 * XML
