@@ -78,9 +78,3 @@ project-folder/
 * Scikit-Learn
 * Matplotlib / Seaborn
 * Jupyter Notebook
-✅ a **diagram**  
-✅ a **professional badge-style header**  
-✅ a **GIF demo section**  
-
-Just tell me!
-```
